@@ -1,0 +1,13 @@
+# IDE 缓存
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 用户脚本临时文件
+*.bak
+*.tmp
